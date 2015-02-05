@@ -1,0 +1,11 @@
+1. Yes there does seem to be a "sweet" spot vis a vis the size of racial majority. When a population is between 60%-85% white there is a larger KKK prevalence.
+
+2. For hate groups in zips where the racial spread has a simple majority and not above 66% majority specifically for % white, the prevelance seems to rise dramatically and then starts to drop/level off as the majority grows.
+
+3. Yes, as the prevelance increases the population drops.
+
+4. Hate groups are more prevalent in zipcodes with lower sqmi. See sqmi.pdf.
+
+5. As hate group prevalence increases the population decreases and as the Population increases the Employment Status stays fairly the same. See econ.pdf and econ1.pdf.
+
+6. The population of 18-24 years old seems to have a larger percentage of people with a High School degree or higher whereas the age increases the less amount of people have a high school degree or higher. As hate group prevalence is higher in lower populations, that population spectrum is consistent with the amount of people with a high school degree or higher.
