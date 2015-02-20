@@ -1,0 +1,22 @@
+gdal_polygonize.py hi_landcover_wimperv_9-30-08_se5.img -f "ESRI Shapefile" land_cover.shp
+
+1. The spatial projection is Albers Conical Equal Area. The units of distance are meters.
+
+2. Class 11, 21, 32, 52, 71, 81, 82
+
+3. Class 52, 71, 81
+
+4. Class 21, 22, 23. Class 21 would reasonably support ~80%, class 22 would reasonably support ~50%, class 23 would reasonably support ~ 25% of urban agriculture.
+
+5. Each of these classes represent developed land so there would be no livestock. Vegetables, oils, fruits and pulses/legumes can be grown on all parts of the open land, but it would depend on which is being grown because some require more sunlight or vise versa. Areas of land that get more sunlight exposure based on their position would grow plants that require more sunlight. 
+
+6. Class 21: 163353 ac/2.3 = Fruits= 71023.043478261 Mcal
+              / 1.1 = Grains: 148502.727272727 Mcal
+	      / 3.2 = Oils: 51047.8125 Mcal
+ 	      / 2.2 = Pulses: 74251.363636364 Mcal
+	      / 1.7 = Vegetables: 96090 Mcal
+		= 440914.95 total Mcal
+   Class 22: 121743 ac = 52931.739130435 + 110675.454545455 + 38044.6875 + 55337.727272727 + 71613.529411765 = 328603.14 total Mcal
+   Class 23: 41263 ac = 17940.434782609 + 37511.818181818 + 12894.6875 + 18755.909090909 + 24272.352941176 = 111375.2 total Mcal
+
+7. 344135 Total people can be fed with caloric intake of 2500 per men and 2000 per woman.
