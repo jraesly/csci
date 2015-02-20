@@ -1,5 +1,20 @@
 gdal_polygonize.py hi_landcover_wimperv_9-30-08_se5.img -f "ESRI Shapefile" land_cover.shp
 
+Class	Land	arable	Area
+11	Open Water	No	4622928300
+21	Developed, Open Space	No	661067100
+22	Developed, Low Intensity	No	492678000
+23	Developed, Medium Intensity	No	166986000
+24	Developed, High Intensity	No	115320600
+31	Barren Land (Rock/Sand/Clay)	No	2393684100
+42	Evergreen Forest	No	4696929000
+52	Scrub/Shrub	Yes	4843431000
+71	Grassland/Herbaceous	Yes	2229809400
+81	Pasture/Hay	Yes	466980300
+82	Cultivated Crops	Yes	559386000
+90	Woody Wetlands	No	45099000
+95	Palustrine Forested Wetland	No	13328100
+
 1. The spatial projection is Albers Conical Equal Area. The units of distance are meters.
 
 2. Class 11, 21, 32, 52, 71, 81, 82
