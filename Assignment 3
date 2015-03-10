@@ -1,0 +1,7 @@
+1. Yes you can produce a plot of mean value for each band for impervious land, dry land, and water. In a multiband raster image bands 1, 2, 3 seem to be most critical as they are RGB. But for these images Band 6 has the most fluctuation compared compared to the other 8 ones which are fairly consistent. Band 6 can be fluctuating the most possibly because it is a VCID 2 band. The band 6 can be either VCID 1 or 2 and VCID 2 has a higher sensitivity (radiometric resolution) compared to VCID 1. ArcGIS has a much simpler way of providing mean values than GRASS.
+
+2. The classification is fairly effective for a desert land like Dubai. Clouds seem to impact the accuracy on the images. Also, for the impervious land, it does not decifer the difference between park land and dry land. Personally I would think that park land and open land within the city should be considered dry land. If the islands were not fully formed also it didn't seem to pick up them as accurately. In an area like the East Coast, the approach would have to have many more classifications because of all the canopy cover. Dubai has a simple landscape because it is in a desert with not many obstacles. 
+
+3. See plots.pdf
+
+It fluctuated below 0 because some years the pictures had a massive amount of cloud cover which hindered its accuracy.
