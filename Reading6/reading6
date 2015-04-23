@@ -1,0 +1,3 @@
+Shi 2014:
+
+This article focuses on geospatial applications by doing comparative analysis of clusters of CPUs, GPUs, and MICs. They found that GPU clusters would have an advantage in the category of embarrassingly parallelism and in the case of geospatial computation that has simple commmunication, MIC clusters would have the better performance. I think it was very well presented with a lot of visualizations to help understand the performance rather than them just stating it. I am not very surprised by their findings except before I did not know much about MICs, but it was safe to assume from the beginning that GPU clusters would have a much higher performance than CPUs.
